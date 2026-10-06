@@ -15,10 +15,10 @@ Frontend:
 HTML • CSS • JavaScript • React.js • Next.js • Tailwind CSS
 
 Backend:
-Node.js • Express.js • Django • REST APIs
+Python • Django • DRF • Node.js • Express.js • Django • REST APIs
 
 Database:
-MongoDB • MySQL
+MongoDB • MySQL • PostgreSQL
 
 Tools & Technologies:
 Git • GitHub • Postman • VS Code • Canva
